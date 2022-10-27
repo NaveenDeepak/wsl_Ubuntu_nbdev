@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "wsl_Ubuntu_nbdev"
+  site-url: "https://NaveenDeepak.github.io/wsl_Ubuntu_nbdev"
+  description: "first attempt at using ubuntu 20.04 + WSL2 on windows11 for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/NaveenDeepak/wsl_Ubuntu_nbdev"
