@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://NaveenDeepak.github.io',
                 'git_url': 'https://github.com/NaveenDeepak/wsl_Ubuntu_nbdev',
                 'lib_path': 'wsl_Ubuntu_nbdev'},
-  'syms': {'wsl_Ubuntu_nbdev.core': {'wsl_Ubuntu_nbdev.core.foo': ('core.html#foo', 'wsl_Ubuntu_nbdev/core.py')}}}
+  'syms': { 'wsl_Ubuntu_nbdev.start': { 'wsl_Ubuntu_nbdev.start.foo': ('start.html#foo', 'wsl_Ubuntu_nbdev/start.py'),
+                                        'wsl_Ubuntu_nbdev.start.say_hello': ('start.html#say_hello', 'wsl_Ubuntu_nbdev/start.py')}}}
